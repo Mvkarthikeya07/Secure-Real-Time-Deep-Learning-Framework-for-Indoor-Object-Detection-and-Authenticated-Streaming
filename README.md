@@ -292,3 +292,7 @@ It reflects a deployment-focused approach to modern AI engineering rather than a
 
 M V Karthikeya
 B.Tech – Computer Science (AI & ML)
+
+📜 License
+
+This project is licensed under the MIT License.
