@@ -20,6 +20,7 @@ Performance-aware optimization
 The objective is to bridge the gap between computer vision research prototypes and deployable AI web systems.
 
 📸 System Demonstration
+
 🔑 1. Secure Login Session
 
 <img width="1366" height="768" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/f9df24c7-4f20-4095-8530-f1f04d420a80" />
