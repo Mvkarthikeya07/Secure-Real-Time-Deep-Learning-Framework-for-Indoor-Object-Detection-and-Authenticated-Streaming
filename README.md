@@ -1,5 +1,6 @@
 🔐 Secure Real-Time Indoor Object Detection & Authenticated Streaming
 A Production-Oriented AI Deployment System Using YOLOv8m
+
 📌 Overview
 
 This project implements a secure, low-latency, real-time indoor object detection system integrated with authenticated browser-based video streaming.
