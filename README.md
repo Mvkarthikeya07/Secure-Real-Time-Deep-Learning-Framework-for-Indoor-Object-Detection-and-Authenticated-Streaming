@@ -209,6 +209,7 @@ Accepts image file input and returns:
   ],
   "count": 1
 }
+```bash
 📁 Project Structure
 secure-real-time-indoor-object-detection/
 │
@@ -220,7 +221,7 @@ secure-real-time-indoor-object-detection/
 │   └── index.html
 ├── requirements.txt
 └── README.md
-
+````
 🚀 Installation
 Clone Repository
 git clone https://github.com/yourusername/secure-real-time-indoor-object-detection.git
