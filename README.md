@@ -77,7 +77,7 @@ REST API for external detection integration
 Threaded streaming architecture for uninterrupted frame serving
 
 Performance evaluation under controlled hardware conditions
-
+````
 🧠 System Architecture
 Client Browser
       │
@@ -104,7 +104,7 @@ Threaded execution for uninterrupted frame streaming
 Minimal shared global state
 
 Modular inference wrapper for future model replacement
-
+`````
 ⚙️ Technical Stack
 
 Component	Technology
@@ -209,7 +209,7 @@ Accepts image file input and returns:
   ],
   "count": 1
 }
-```bash
+```
 📁 Project Structure
 secure-real-time-indoor-object-detection/
 │
