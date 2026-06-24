@@ -45,7 +45,7 @@
 - [Engineering Highlights](#-engineering-highlights)
 - [Known Limitations](#-known-limitations)
 - [Future Roadmap](#-future-roadmap)
-- [Industry Validation](#-Industry-Validation)
+- [Industry Validation — Embsys Intelligence Internship](#industry-validation--embsys-intelligence-internship)
 - [Author](#-author)
 - [License](#-license)
 
