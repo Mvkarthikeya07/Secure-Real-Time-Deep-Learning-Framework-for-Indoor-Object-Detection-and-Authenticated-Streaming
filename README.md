@@ -582,6 +582,43 @@ http://127.0.0.1:5000
 - [ ] **Audit Log** — Timestamped log of all auth events and detection sessions
 - [ ] **Detection History Dashboard** — Per-session object count statistics and timeline view
 
+## 🏆 Industry Validation — Embsys Intelligence Internship
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Internship-Embsys%20Intelligence-00d4ff?style=for-the-badge&logo=ai&logoColor=white" alt="Internship Badge"/>
+  <img src="https://img.shields.io/badge/Domain-AI%20%26%20Machine%20Learning-0f0f1a?style=for-the-badge" alt="Domain Badge"/>
+  <img src="https://img.shields.io/badge/Status-CEO%20Endorsed-success?style=for-the-badge" alt="Endorsed Badge"/>
+  <img src="https://img.shields.io/badge/Duration-Feb%202026%20--%20Apr%202026-blueviolet?style=for-the-badge" alt="Duration Badge"/>
+</p>
+
+> *"M V Karthikeya ranks among the top interns we have mentored at Embsys Intelligence."*
+> **— CEO, Embsys Intelligence Pvt Ltd**
+
+This project was not built in isolation. It was forged under the direct technical oversight of **Embsys Intelligence Pvt Ltd**, where the engineering principles applied here — real-time inference pipelines, secure system architecture, and applied deep learning — were stress-tested in a live, professional R&D environment.
+
+### 📋 Internship Credentials
+
+| Attribute | Detail |
+|---|---|
+| **Organization** | Embsys Intelligence Pvt Ltd |
+| **Role** | AI & Machine Learning Intern |
+| **Duration** | February 2, 2026 – April 12, 2026 |
+| **Endorsement** | Direct technical endorsement from the Chief Executive Officer |
+| **Verification** | [📄https://drive.google.com/file/d/1xGMNh4C1Npqs5Qp6c7oPxlPKXNAem44e/view?usp=drive_link] |
+
+### ⚡ Why This Matters
+
+This is not a participation certificate. It is a **CEO-signed technical endorsement** — a direct attestation that the skills demonstrated in this repository were forged and validated under real-world, production-grade scrutiny, not assembled from tutorials. The internship placed direct emphasis on:
+
+- **Real-Time Object Detection** — Architecture and optimization of YOLO-based detection pipelines for real-time inference workloads
+- **Secure Deployment Infrastructure** — Authenticated, session-gated RESTful APIs engineered for production-grade access control
+- **Visual Similarity & Feature Analytics** — Deep architecture and embedding-based similarity strategies for visual interrogation systems
+
+The endorsement explicitly cites **strong technical and interpersonal command**, **clear communication under ambiguity**, and **constructive engagement under compressed timelines** — the exact engineering discipline reflected in this repository's architecture, security design, and documentation standards.
+
+This is the difference between a developer who *follows* a tutorial and an engineer who has been **independently certified, under professional supervision, as capable of leading.**
+
+---
 ---
 
 ## 👤 Author
