@@ -45,6 +45,7 @@
 - [Engineering Highlights](#-engineering-highlights)
 - [Known Limitations](#-known-limitations)
 - [Future Roadmap](#-future-roadmap)
+- [Industry Validation](#-Industry-Validation)
 - [Author](#-author)
 - [License](#-license)
 
