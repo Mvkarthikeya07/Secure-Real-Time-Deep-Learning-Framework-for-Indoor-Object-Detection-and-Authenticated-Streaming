@@ -583,7 +583,7 @@ http://127.0.0.1:5000
 - [ ] **Audit Log** — Timestamped log of all auth events and detection sessions
 - [ ] **Detection History Dashboard** — Per-session object count statistics and timeline view
 
-## 🏆 Industry Validation — Embsys Intelligence Internship
+## Industry Validation — Embsys Intelligence Internship
 
 <p align="left">
   <img src="https://img.shields.io/badge/Internship-Embsys%20Intelligence-00d4ff?style=for-the-badge&logo=ai&logoColor=white" alt="Internship Badge"/>
