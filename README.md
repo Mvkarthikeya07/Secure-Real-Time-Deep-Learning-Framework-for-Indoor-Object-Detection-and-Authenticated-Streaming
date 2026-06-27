@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🎯 Secure Real-Time Indoor Object Detection</h1>
+<h1>🎯 Secure Real-Time Indoor Object Detectio</h1>
 <h3>Authenticated MJPEG Streaming with YOLOv8m — A Production-Oriented AI Deployment System</h3>
 
 <p>
